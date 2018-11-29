@@ -1,0 +1,2 @@
+# bakalarska-praca
+Bakalarsky projekt
