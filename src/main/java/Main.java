@@ -6,5 +6,8 @@ public class Main {
 
         Parsing parsing=new Parsing();
         parsing.parseHtmlFromUrl();
+
+        SetTimeWithSubjects setTimeWithSubjects=new SetTimeWithSubjects();
+        setTimeWithSubjects.divideListOfSubjects(parsing.listOfSubjects);
         }
     }
