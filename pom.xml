@@ -27,7 +27,12 @@
         <type>pom</type>
         <version>3.9.0</version>
     </dependency>
-        <!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
+        <dependency>
+            <groupId>org.apache.jena</groupId>
+            <artifactId>jena-fuseki-main</artifactId>
+            <version>3.10.0</version> <!-- Set the version -->
+        </dependency>
+        <!--parsing data from html page dependency-->
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>

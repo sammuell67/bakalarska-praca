@@ -6,7 +6,168 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4726d3ef-f1b6-47e9-97de-0ae8d7239c78" name="Default" comment="Upgrade parsing into Lists" />
+    <list default="true" id="4726d3ef-f1b6-47e9-97de-0ae8d7239c78" name="Default" comment="Upgrade parsing into Lists">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-delete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-get" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-head" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-post" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-put" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-query" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-update" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/s-update-form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/bin/soh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/fuseki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/fuseki-backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/fuseki-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/fuseki-server.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/fuseki-server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/fuseki.service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/fuseki.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/admin-logs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/bootstrap-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/codemirror.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/fui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/jquery.dataTables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/jquery.fileupload-noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/jquery.fileupload-ui-noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/jquery.fileupload-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/jquery.fileupload.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/pivot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/qonsole.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/yasqe.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/css/yasr.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/dataset.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/back_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/back_enabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/back_enabled_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/forward_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/forward_enabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/forward_enabled_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/jena-logo-notext-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/sort_asc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/sort_desc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/images/wait30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/controllers/dataset-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/controllers/index-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/controllers/manage-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/controllers/query-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/controllers/upload-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/controllers/validation-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/fui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/main.dataset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/main.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/main.manage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/main.validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/models/dataset-stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/models/dataset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/models/fuseki-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/models/task.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/models/validation-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/qonsole-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/services/ping-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/services/validation-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/dataset-edit.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/dataset-info.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/dataset-management.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/dataset-selection-list.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/dataset-selector.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/dataset-simple-create.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/dataset-stats.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/file-upload.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/templates/uploadable-file.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/util/page-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/dataset-edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/dataset-info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/dataset-management.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/dataset-selection-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/dataset-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/dataset-simple-create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/dataset-stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/datasets-dropdown-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/file-upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/tabbed-view-manager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/uploadable-file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/app/views/validation-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/common-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/addon/fold/brace-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/addon/fold/comment-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/addon/fold/foldcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/addon/fold/foldgutter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/addon/fold/xml-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/backbone-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/backbone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/backbone.marionette.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/bootstrap-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery.fileupload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery.fileupload.local.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery.iframe-transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery.ui.widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/jquery.xdomainrequest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/lib/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/mode/javascript/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/mode/sparql/sparql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/mode/turtle/turtle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/mode/xml/xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/pivot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/pivot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/pivot.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/plugins/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/qonsole.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/refresh.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/require.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/sprintf-0.7-beta1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/underscore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/yasqe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/yasqe.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/yasr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/js/lib/yasr.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/manage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/test/test-fuseki-config.ttl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-jena-fuseki-3.10.0/webapp/validate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parsing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parsing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Writing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parsing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Parsing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Writing.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,26 +184,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Writing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="544">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/models/Class.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/document/Writing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="416">
+              <caret line="47" column="48" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -50,8 +202,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="204">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -59,8 +211,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Parsing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+            <state relative-caret-position="221">
+              <caret line="20" column="55" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,15 +284,18 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Writing.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reading.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Mapping.java" />
         <option value="$PROJECT_DIR$/src/main/java/Teacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/models/Teacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/models/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/SetTimeWithSubjects.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Parsing.java" />
         <option value="$PROJECT_DIR$/src/main/java/models/Class.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FusekiServer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Parsing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/document/Writing.java" />
       </list>
     </option>
   </component>
@@ -165,6 +320,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -197,19 +353,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547510556071" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548015710740" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -312,7 +467,9 @@
       <workItem from="1546374871006" duration="614000" />
       <workItem from="1547310565696" duration="2000" />
       <workItem from="1547491804726" duration="11641000" />
-      <workItem from="1548007592928" duration="717000" />
+      <workItem from="1548007592928" duration="6416000" />
+      <workItem from="1548027000337" duration="307000" />
+      <workItem from="1548027547684" duration="196000" />
     </task>
     <task id="LOCAL-00001" summary="project initialization">
       <created>1543526206418</created>
@@ -381,12 +538,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48662000" />
+    <option name="totallyTimeSpent" value="54903000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,7 +558,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49947917" visible="true" weight="0.36619717" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947917" weight="0.36619717" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.24483307" />
@@ -477,16 +635,28 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Parsing.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SetTimeWithSubjects.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Parsing.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/document/Writing.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/document/Writing.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -566,31 +736,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="272">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Writing.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-arq/3.9.0/jena-arq-3.9.0.jar!/org/apache/jena/query/Dataset.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="102">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-core/3.9.0/jena-core-3.9.0.jar!/org/apache/jena/rdf/model/Resource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/jena/jena-core/3.9.0/jena-core-3.9.0.jar!/org/apache/jena/rdf/model/Model.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Parsing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
+        <state relative-caret-position="221">
+          <caret line="20" column="55" selection-start-line="19" selection-start-column="2" selection-end-line="20" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -621,10 +829,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/models/Class.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/document/Writing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="722">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="39" />
         </state>
       </provider>
     </entry>

@@ -20,6 +20,9 @@ public class Parsing {
     public List<String> listOfSubjects =new ArrayList<>();
     public List<String> listOfTimes =new ArrayList<>();
 
+    public Parsing() {
+    }
+
 
     public Elements getTitle() {
         return title;
