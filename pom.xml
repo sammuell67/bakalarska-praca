@@ -32,6 +32,7 @@
             <artifactId>jena-fuseki-main</artifactId>
             <version>3.10.0</version> <!-- Set the version -->
         </dependency>
+
         <!--parsing data from html page dependency-->
         <dependency>
             <groupId>org.jsoup</groupId>
