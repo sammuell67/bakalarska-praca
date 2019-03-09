@@ -1,14 +1,21 @@
-import document.Writing;
+import document.DocumentGetting;
+import document.Parsing;
+import teacher.Teacher;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
-       Parsing parsing=new Parsing();
-       parsing.parseHtmlFromUrl();
-       new Writing(parsing.listOfSubjects,parsing.listOfTimes);
+//        DocumentGetting documentGetting = new DocumentGetting();
+//        documentGetting.downloadDataFromUrls();
 
-//        SetTimeWithSubjects setTimeWithSubjects=new SetTimeWithSubjects();
-//        setTimeWithSubjects.divideListOfSubjects(parsing.listOfSubjects);
-        }
+        Teacher teacher=new Teacher();
+        teacher.downloadListOfTeachers();
+        teacher.putTeachersWithSubjectsIntoMap();
+        System.out.println("Dad");
     }
+}
